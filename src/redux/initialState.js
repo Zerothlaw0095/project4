@@ -260,7 +260,7 @@ const initialState = {
       height: 35,
       onClick: () => {
         window.open(
-          "https://github.com/Zerothlaw0095",
+          "https://ecommerce95.netlify.app/",
           "_blank",
           WIN_FEATURES
         );
