@@ -260,7 +260,7 @@ const initialState = {
       height: 35,
       onClick: () => {
         window.open(
-          "https://ecommerce95.netlify.app/",
+          "https://ecommerceblend.netlify.app/",
           "_blank",
           WIN_FEATURES
         );
